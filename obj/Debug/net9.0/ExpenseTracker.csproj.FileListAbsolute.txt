@@ -1,0 +1,14 @@
+C:\VSCode\PROIECTE VS Code\ExpenseTracker\bin\Debug\net9.0\ExpenseTracker.exe
+C:\VSCode\PROIECTE VS Code\ExpenseTracker\bin\Debug\net9.0\ExpenseTracker.deps.json
+C:\VSCode\PROIECTE VS Code\ExpenseTracker\bin\Debug\net9.0\ExpenseTracker.runtimeconfig.json
+C:\VSCode\PROIECTE VS Code\ExpenseTracker\bin\Debug\net9.0\ExpenseTracker.dll
+C:\VSCode\PROIECTE VS Code\ExpenseTracker\bin\Debug\net9.0\ExpenseTracker.pdb
+C:\VSCode\PROIECTE VS Code\ExpenseTracker\obj\Debug\net9.0\ExpenseTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSCode\PROIECTE VS Code\ExpenseTracker\obj\Debug\net9.0\ExpenseTracker.AssemblyInfoInputs.cache
+C:\VSCode\PROIECTE VS Code\ExpenseTracker\obj\Debug\net9.0\ExpenseTracker.AssemblyInfo.cs
+C:\VSCode\PROIECTE VS Code\ExpenseTracker\obj\Debug\net9.0\ExpenseTracker.csproj.CoreCompileInputs.cache
+C:\VSCode\PROIECTE VS Code\ExpenseTracker\obj\Debug\net9.0\ExpenseTracker.dll
+C:\VSCode\PROIECTE VS Code\ExpenseTracker\obj\Debug\net9.0\refint\ExpenseTracker.dll
+C:\VSCode\PROIECTE VS Code\ExpenseTracker\obj\Debug\net9.0\ExpenseTracker.pdb
+C:\VSCode\PROIECTE VS Code\ExpenseTracker\obj\Debug\net9.0\ExpenseTracker.genruntimeconfig.cache
+C:\VSCode\PROIECTE VS Code\ExpenseTracker\obj\Debug\net9.0\ref\ExpenseTracker.dll
